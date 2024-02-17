@@ -69,4 +69,4 @@ Hoje além da faculdade, realizo curso extra focado para a área de QA, e com is
 
 
 ## HARD SKILL
-* Teste de automação - Conhecimento e uso de linguagens de programação
+* Automation testing - Knowledge and use of programming languages ​​- Knowledge in Database
