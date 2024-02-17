@@ -1,11 +1,10 @@
 ## Hi, my name is Bruno Marciano! 👋
 
-✅ Tenho 32 anos, sou de SP e atualmente busco minha transição de carreira. 
+✅ I'm 32 years old, from SP and currently looking for my career transition.
 
-No início de 2023, tomei a decisão em me tornar um profissional da área da Tecnlogia. Então, logo iniciei um curso superior no qual ainda estou exercendo e, tomando conhecimento 
-durante este período, me identifiquei muito com a área de Quality Assurance. 
+At the beginning of 2023, I made the decision to become a technology professional. So, I soon started a higher education course that I am still working on and, having learned about it during this period, I really identified with the area of ​​Quality Assurance.
 
-Hoje além da faculdade, realizo curso extra focado para a área de QA, e com isso, espero contribuir com todo meu aprendizado e assim garantir minha tão sonhadada transição de carreira.
+Today, in addition to college, I take an extra course focused on the QA area, and with this, I hope to contribute to all my learning and thus guarantee my long-awaited career transition.
 
 ## Social Midia 
 
@@ -69,4 +68,4 @@ Hoje além da faculdade, realizo curso extra focado para a área de QA, e com is
 
 
 ## HARD SKILL
-* Automation testing - Knowledge and use of programming languages ​​- Knowledge in Database
+* Automation testing - Knowledge and use of programming languages ​​- Knowledge in Database - Intermediary English
