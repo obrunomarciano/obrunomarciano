@@ -58,7 +58,7 @@ Today, in addition to college, I take an extra course focused on the QA area, an
 
   **Value:** Upon identifying some flaws in the product development, I forwarded
   immediately to the area responsible for checking and maintaining the code, also
-  I suggested some changes to make the product easier to use.
+  I suggested some changes to make the product easier to usability.
 
 ## ACADEMIC EDUCATION
 * (Studying) Analysis and Systems Development.
