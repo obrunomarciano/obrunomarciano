@@ -36,24 +36,6 @@ Today, in addition to college, I take extra courses focused on the Front End are
 </div>
 
 
-## PROFESSIONAL EXPERIENCE
-* In December 2023, I participated in a project carried out by Qa.Coders, in a squad of 8 people to develop a product from scratch to presentation end for the customer.
-
-  **My performance:** Manual Testing and Automation.
-
-  **Frameworks:** Excel, Azure, Postman, VsCode, Javascript and
-  Selenium.
-
-  **Value:** Upon identifying some flaws in the product development, I forwarded
-  immediately to the area responsible for checking and maintaining the code, also
-  I suggested some changes to make the product easier to usability.
-
 ## ACADEMIC EDUCATION
 * (Studying) Analysis and Systems Development.
 
-## SOFT SKILL
-* Good communication - Adaptability - Prioritization - Teamwork - Work ethic - Critical thinking - Decision-making ability - Quick learning - Logical Reasoning - Proactivity - Determination - Commitment.
-
-
-## HARD SKILL
-* Automation testing - Knowledge and use of programming languages ​​- Knowledge in Database - Intermediary English
