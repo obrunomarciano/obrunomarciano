@@ -1,6 +1,6 @@
 ## Hi, my name is Bruno Marciano! 👋
 
-✅ I'm 32 years old and from Taboão da Serra - SP.
+✅ I'm 32 years old and I'm a web developer.
 
 In early 2023, I made the decision to become a technology professional.
 I started studying Systems Analysis and Development, which I am still studying and I really identified with the area of ​​Front End Programming.
