@@ -1,12 +1,13 @@
 ## Hi, my name is Bruno Marciano! 👋
 
-✅ I'm 32 years old, from SP and currently looking for my career transition.
+✅ I'm 32 years old and from Taboão da Serra - SP.
 
-At the beginning of 2023, I made the decision to become a technology professional. So, I soon started a higher education course that I am still working on and, having learned about it during this period, I really identified with the area of ​​Quality Assurance.
+In early 2023, I made the decision to become a technology professional.
+I started studying Systems Analysis and Development, which I am still studying and I really identified with the area of ​​Front End Programming.
 
-Today, in addition to college, I take an extra course focused on the QA area, and with this, I hope to contribute to all my learning and thus guarantee my long-awaited career transition.
+Today, in addition to college, I take extra courses focused on the Front End area, always looking for new knowledge and challenges.
 
-## Social Midia 
+## Social media
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obrunomarciano/) 
 
@@ -22,28 +23,18 @@ Today, in addition to college, I take an extra course focused on the QA area, an
 
 <div align="center">
 
-<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img alt="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 
+<img alt="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 
-<img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img alt="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
-<img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&log" />
+<img alt="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" />
-
-<br>
-
-<img alt="Java" src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java" />
+<img alt="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 
 <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white" />
 
-<img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C.svg?style=for-the-badge&logo=Cypress&logoColor=white" />
-
-<br>
-
-<img alt="JUnit5" src="https://img.shields.io/badge/JUnit5-25A162.svg?style=for-the-badge&logo=JUnit5&logoColor=white" />
-
-<img alt="Cucumber" src="https://img.shields.io/badge/Cucumber-23D96C.svg?style=for-the-badge&logo=Cucumber&logoColor=white" />
 
 </div>
 
