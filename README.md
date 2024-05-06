@@ -3,9 +3,9 @@
 ✅ I'm 32 years old and I'm a web developer.
 
 In early 2023, I made the decision to become a technology professional.
-I started studying Systems Analysis and Development, which I am still studying and I really identified with the area of ​​Front End Programming.
+I started studying Systems Analysis and Development, which I am still studying and I really identified with the area of ​​Front-End Programming.
 
-Today, in addition to college, I take extra courses focused on the Front End area, always looking for new knowledge and challenges.
+Today, in addition to college, I take extra courses focused on the Front-End area, always looking for new knowledge and challenges.
 
 ## Social media
 
