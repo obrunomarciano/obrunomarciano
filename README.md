@@ -4,18 +4,6 @@
 Estou em transição de carreira para a área de tecnologia e além da faculdade, estou cursando a formação de Desenvolvimento FullStack pela instituição DevClub. 
 Trabalho com Desenvolvimento Web, aprimorando e realizando manutenções de sistemas Web, utilizando tecnologias como HTML, CSS, JavaScript, React.js, Node.js, Styled-Components, Bootstrap, Git e GitHub. 
 
-Anterior à programação, obtive experiência profissional como Assistente Administrativo, na qual eram exigidas habilidades de resolução de problemas, trabalho em equipe, comunicação e responsabilidades financeiros.
-
-
-▪️ Soft Skills:  
-
-Boa comunicação - Adaptabilidade - Priorização - Trabalho em Equipe - Ética de trabalho - Pensamento crítico - Capacidade de tomada de decisão - Aprendizagem rápida - Raciocínio Lógico - Proatividade - Determinação - Comprometimento.
-
-
-Bruno Marciano
-📞 11 94784 5897
-✉️ obrunomarciano@gmail.com
-github: https://github.com/obrunomarciano
 
 
 ## Social media
