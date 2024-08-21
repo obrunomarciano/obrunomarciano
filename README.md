@@ -5,8 +5,8 @@ Estou em transição de carreira para Desenvolvedor Web, com total disposição 
 <br><br><br/>
 ● Connect with me: 
 <br><br>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" width=100px />
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" width=113px />
+<a href="https://www.linkedin.com/in/obrunomarciano"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" width=100px /><a/>
+<a href="https://www.instagram.com/obrunomarciano"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" width=113px /><a/>
 <br><br/>
 
 ## Technologies and Tools
