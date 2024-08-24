@@ -1,7 +1,7 @@
 <br><br/>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=3ddbf7&center=true&vCenter=true&random=false&width=1000&lines=Seja+bem+vindo!)](https://git.io/typing-svg)
 
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="320" src="https://github.com/user-attachments/assets/83b60631-20ad-4a02-b87c-bd1b5018071c">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="340" src="https://github.com/user-attachments/assets/83b60631-20ad-4a02-b87c-bd1b5018071c">
 <br><br><br>
 
 Olá, meu nome é Bruno Marciano e sou apaixonado por tecnologia.
