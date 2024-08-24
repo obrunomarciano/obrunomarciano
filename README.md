@@ -1,4 +1,4 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="340" src="https://github.com/user-attachments/assets/83b60631-20ad-4a02-b87c-bd1b5018071c">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://github.com/user-attachments/assets/9ac831e0-08dd-4e3a-8848-25d6acddc0c8">
 
 <h1>Seja bem-vindo!</h1>
 
