@@ -2,7 +2,7 @@
 
 <h1>Seja bem-vindo!</h1>
 
-<p align="justify">Olá, meu nome é Bruno Marciano e atualmente estou em fase de transição de carreira.
+<p>Olá, meu nome é Bruno Marciano e atualmente estou em fase de transição de carreira.
 <br> <br>Estou no último semestre da faculdade de Análise e Desenvolvimento de Sistemas e realizo cursos direcionado a programação em Desenvolvimento FullStack e Qualidade de Software.
 <br><br>Meu principal objetivo é conquistar o tão esperado SIM em uma oportunidade como Dev.
 _________________________________________________________________________________________________
