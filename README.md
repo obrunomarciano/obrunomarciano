@@ -2,14 +2,16 @@
 
 <h1>Seja bem-vindo!</h1>
 
-<p align="justify">Olá, meu nome é Bruno Marciano e sou apaixonado por tecnologia.<br>
-Analista de Qualidade de Software, graduando em Análise e Desenvolvimento de Sistemas e realizando curso em Desenvolvimento FullStack pelo Balta.io.
+<p align="justify">Olá, meu nome é Bruno Marciano e atualmente estou em fase de transição de carreira.
+<br> <br>Estou no último semestre da faculdade de Análise e Desenvolvimento de Sistemas e realizo cursos direcionado a programação em Desenvolvimento FullStack e Qualidade de Software.
+<br><br>Meu principal objetivo é conquistar o tão esperado SIM em uma oportunidade como Dev.
+_________________________________________________________________________________________________
 <p/>
-
+<br>
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=3AAAFE&color:FFF)](https://www.linkedin.com/in/obrunomarciano/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=3AAAFE&color:FFF)](https://www.instagram.com/obrunomarciano/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=3AAAFE&color:FFF)](https://www.instagram.com/brunotechdev/)
 
 
 
@@ -20,8 +22,14 @@ Analista de Qualidade de Software, graduando em Análise e Desenvolvimento de Si
 <img  src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=BF5DF9" alt="html" />
 <img  src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=BF5DF9" alt="css" />
 <img  src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=BF5DF9" alt="javascript"  />
+<img  src="https://img.shields.io/badge/java-000?style=for-the-badge&logo=openjdk&logoColor=BF5DF9" alt="Java" />
 <img  src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=BF5DF9" alt="react" />
+<br/>
 <img  src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=BF5DF9" alt="Node.Js" />
+<img  src="https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql&logoColor=BF5DF9" alt="MySQL" />
+<img  src="https://img.shields.io/badge/figma-000?style=for-the-badge&logo=figma&logoColor=BF5DF9" alt="Figma" />
+<img  src="https://img.shields.io/badge/cypress-000?style=for-the-badge&logo=cypress&logoColor=BF5DF9" alt="Cypress" />
+<img  src="https://img.shields.io/badge/selenium-000?style=for-the-badge&logo=selenium&logoColor=BF5DF9" alt="Selenium" />
 
 ### GitHub Stats
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=obrunomarciano&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=3AAAFE&&text_color=FFF&border_radius=3&border_color=FFFc&icon_color=3AAAFE&&theme=jolly)
